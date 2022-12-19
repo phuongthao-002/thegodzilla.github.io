@@ -135,6 +135,18 @@ body {
 	color: #031824;
 	margin-top: -10px;
 }
+.card:hover{
+	transform: scale(1.2);
+	box-shadow: 0px 5px 10px #aeadb2;
+	background-color: #9ec3d9;
+	cursor: pointer;
+}
+.grid-item2 .card2:hover{
+	transform: scale(1.1);
+	background-color: #9ec3d9;
+	cursor: pointer;
+
+}
 
 .pop-up {
 	background: rgba(0, 0, 0, 0.6);
